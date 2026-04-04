@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there I'm Lndydx 👋
 
-<!--
-**lndydx/lndydx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a scholar....
 
-Here are some ideas to get you started:
+### 🌱 Currently Focus
+* **Mathematics, Machine Learning, Feature Engineering** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** Python.
+* **Data Science:** Scikit-Learn, Matplotlib Seaborn, Pandas, Numpy.
+
+### 💬 Ask Me About
+* Machine Learning project ideas.
+* Mathematics for Machine Learning and Data Science
+
+### 📫 How to Reach Me
+* Email or something else
