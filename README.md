@@ -15,3 +15,5 @@ I'm a scholar....
 
 ### 📫 How to Reach Me
 * Email or something else
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
