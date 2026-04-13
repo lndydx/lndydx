@@ -6,7 +6,7 @@ I'm a scholar....
 * **Mathematics, Machine Learning, Feature Engineering** 
 
 ### 🛠️ Tech Stack
-* **Languages:** Python.
+* **Language:** Python.
 * **Data Science:** Scikit-Learn, Matplotlib Seaborn, Pandas, Numpy.
 
 ### 💬 Ask Me About
