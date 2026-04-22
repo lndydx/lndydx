@@ -18,4 +18,3 @@ I'm a scholar....
 
 
 ![Python](https://img.shields.io/badge/Python-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-blue)
